@@ -10,7 +10,7 @@ The aim of this project is to classify or is to identify the handwritten digits 
 * This means when new data appears then it can be easily classified into a well suite category by using K- NN algorithm. 
 * K is the hyperparameter which defines the number of nearest neighbours taken under consideration for building the model.
 
-## More about the code and working of the model:
+## More about the MNIST data, code and working of the model:
 * The Python libraries used are: NumPy, Panda and MatplotLib.
 * Data is imported from the MNIST dataset and since we are implementing using the Supervised Learning technique, we give our machine learning model a collection of training data (features) and what we expect the model to output for each set of that training data we pass in (labels).
 * The data is divided into training and testing data, the former dataset is used for training and building the model using KNN Algorithm, the latter is used to check the working and accuracy of the built model.
