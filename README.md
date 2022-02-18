@@ -21,11 +21,11 @@ Python, Numpy, Pandas, Matplotlib
 
 ## Future Scope:
  The KNN algorithm used for building this model can be used for: 
-* ***Recommendation Systems:***
+* ***Building Recommendation Systems:***
    KNN is an excellent baseline approach for the systems. 
    Many companies make a personalized recommendation for its consumers, such as Netflix, Amazon, YouTube, and many more.
    
-* ***Search semantically similar documents:***
+* ***Searching semantically similar documents:***
    Each document is considered as a vector. If documents are close to each other, that means the documents contain identical topics.
    
 * ***Detecting outliers:***
